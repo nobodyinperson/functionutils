@@ -1,0 +1,10 @@
+Package: functionutils
+Type: Package
+Title: Utilities to manipulate functions.
+Version: 1.0.0
+Date: 2015-07-01
+Author: Yann Buechau <nobodyinperson@gmx.de>
+Maintainer: Yann Buechau <nobodyinperson@gmx.de>
+Description: Provides utilities to manipulate functions.
+License: GPL-3
+RoxygenNote: 5.0.1
